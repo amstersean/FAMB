@@ -1,0 +1,15 @@
+/* app css stylesheet */
+
+/* COLORS */
+purple-haze{
+  background-color: #402b56;
+}
+
+/*BOOTSTRAP THEME OVERIDES */
+.navbar-inverse {
+  background-color: #7e4082;
+}
+
+body {
+  background-color: #eaeaea;
+}
