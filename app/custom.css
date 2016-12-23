@@ -1,7 +1,7 @@
 /* app css stylesheet */
 
 /* COLORS */
-nav.navbar.navbar-inverse.navbar-fixed-top.purple-haze{
+purple-haze{
   background-color: #402b56;
 }
 
@@ -11,5 +11,5 @@ nav.navbar.navbar-inverse.navbar-fixed-top.purple-haze{
 }
 
 body {
-  background-color: tomato;
+  background-color: #eaeaea;
 }
