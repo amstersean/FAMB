@@ -14,5 +14,6 @@
     "karma-junit-reporter": "*",
     "karma-jasmine": "*",
     "karma-ng-scenario": "*"
-  }
+  },
+  "start": "node server.js"
 }
