@@ -2,9 +2,11 @@
   "name": "angualrjs-seed",
   "description": "A starter project for angular js",
   "dependencies": {
-    "express": "^4.14.0",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
     "gzippo": "^0.2.0",
-    "logfmt": "^1.2.0"
+    "logfmt": "^1.2.0",
+    "mongodb": "^2.2.22"
   },
   "devDependencies": {
     "phantomjs": "*",
